@@ -13,6 +13,7 @@ bs::framework is a C++ library that aims to provide a unified foundation for the
  * Cross-platform, highly optimized, multi-threaded core capable of running very demanding projects
  * Focus on modern technologies and high-fidelity graphics
  * Fully documented codebase with an extensive API reference
+ * Experiment with API to get to know more
 
 Current feature-set includes a wide range of high level systems, ranging from math and utility libraries, to a physically based renderer backed by Vulkan, DirectX or OpenGL, all the way to input, GUI, physics, audio, animation and scripting systems, with asset support for most popular resource formats.
  
